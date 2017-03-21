@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\test\test_sound\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="E:\test\test_sound\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.2.0_6611763c32a8a0ba367599c95f73e51ed5210394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\test\test_sound\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\test\test_sound\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.2.0_db927b17df1f3bc7e08a3a9affc69a03b13d8458.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\test\test_sound\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\test\test_sound\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.2.0_61e2ed1b8856bb65c28521c10459b59a947d2740.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\test\test_sound\platforms\android\build\intermediates\exploded-aar\testsound\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bbf23f78c0e92e11a9805b9fb54bab3810ca30da">
+        <dex dex="E:\test\test_sound\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_fb02cc6fd791aa3ce9070e2624ddf8b34a6cb7e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\test\test_sound\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\test\test_sound\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.2.0_ee24605d7b42d863e0a4cd63367f488bbfc713e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\test\test_sound\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="E:\test\test_sound\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.2.0_7bfd5374e715ee5fdfc03970c53ad2f9d447e8d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\test\test_sound\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="E:\test\test_sound\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_642f142deef8cb58d4925f0346f6ac592281785a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\test\test_sound\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\test\test_sound\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.2.0_f7b1e7997b78a7620d5ef0186b0a7cb8fe7360ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\test\test_sound\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.2.0_3a761c8a1937d765573fcf5b109cb125ab3b48e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\test\test_sound\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\test\test_sound\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.2.0_ab5aaf2802358b74c473b5e3ba6b518e1d6d6c5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\test\test_sound\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\test\test_sound\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.2.0_5870257c7ba290ccbe2e36c4119290f9d22bf8d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\test\test_sound\platforms\android\build\intermediates\exploded-aar\testsound\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c352a6bc5afb35f4b9355beb4df346c36d96b415">
+        <dex dex="E:\test\test_sound\platforms\android\build\intermediates\pre-dexed\F0\debug\testsound-runtime-unspecified_1b9d199ba14a5fa49ccb55c2f9ba9606cc33ab1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\test\test_sound\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\test\test_sound\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.2.0_dd7f655584c873da22f671052ccac86f4798fff8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\test\test_sound\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\test\test_sound\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.2.0_a77190f42a26a8ea383e4733f7d0d23668b5edda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\test\test_sound\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="E:\test\test_sound\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.2.0_00cd04137cc5460e5a8cdbb2567d308abd0c720b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\test\test_sound\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\test\test_sound\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.2.0_a6e0c9b32741acd07eab306e1b002663798894f2.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\test\\test_sound\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "E:\\test\\test_sound\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\test\\test_sound\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "E:\\test\\test_sound\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\test\\test_sound\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xxhdpi\\background.png",
+        "source": "E:\\test\\test_sound\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\background.png"
+    }
+]
