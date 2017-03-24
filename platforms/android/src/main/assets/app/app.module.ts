@@ -7,6 +7,7 @@ import { ItemService } from "./item/item.service";
 import { ItemsComponent } from "./item/items.component";
 import { ItemDetailComponent } from "./item/item-detail.component";
 import { ViewComponent } from "./views/main";
+import { FileTest } from "./views/test_path/file_test"
 
 @NgModule({
     bootstrap: [
@@ -20,7 +21,8 @@ import { ViewComponent } from "./views/main";
         AppComponent,
         ItemsComponent,
         ItemDetailComponent,
-        ViewComponent
+        ViewComponent,
+        FileTest
     ],
     providers: [
         ItemService

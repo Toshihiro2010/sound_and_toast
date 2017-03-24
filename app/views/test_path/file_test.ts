@@ -9,9 +9,9 @@ var Sound = require("nativescript-sound");
 
 @Component({
     selector: "ns-app",
-    templateUrl: "views/main.html",
+    templateUrl: "views/test_path/file_test.html",
 })
-export class ViewComponent {
+export class FileTest {
 
     private sao_click;
     private path_sound = "~/res/click_shut.mp3";
@@ -72,7 +72,7 @@ export class ViewComponent {
         console.log("on click => " , "get DB");
         let self = this;
 
-        http.getFile("http://self.enconcept.com:8090/addict_databases/EngToTha.db").then(function (r) {
+        http.getFile("https://raw.githubusercontent.com/NativeScript/NativeScript/master/apps/tests/logo.png").then(function (r) {
             //// Argument (r) is File!
             console.log("result =>" , JSON.stringify(r));
         }, function (e) {
